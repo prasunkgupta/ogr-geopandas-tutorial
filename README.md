@@ -5,10 +5,7 @@
 Material for distance learning course on "Geoprocessing using Python"
 
 # video
-[![LIVE DEMONSTRATION](http://img.youtube.com/vi/5diaHsrQX3k/0.jpg)](https://www.youtube.com/watch?v=5diaHsrQX3k)
-
-
-__Note__: This link may not work later (after 24 July 2019). I will try and post the updated link (later).
+[![DEMONSTRATION](http://img.youtube.com/vi/vTdlIMrcq5E/0.jpg)](https://www.youtube.com/watch?v=vTdlIMrcq5E)
 
 
 # installation (tested on windows 10) 
